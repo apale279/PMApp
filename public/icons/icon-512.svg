@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#145da0"/>
+  <!-- Croce medica -->
+  <rect x="202" y="112" width="108" height="288" rx="20" fill="#ffffff"/>
+  <rect x="112" y="202" width="288" height="108" rx="20" fill="#ffffff"/>
+</svg>
